@@ -35,11 +35,43 @@
 
 ## 📚 İçindekiler
 
+- [💡 Hakkında](#-hakkında)
 - [🧬 Bölüm 1: Beyaz Yakalı Anatomisi](#-bölüm-1-beyaz-yakalı-anatomisi)
 - [🖥️ Bölüm 2: Ergonomik Mimari](#-bölüm-2-ergonomik-mimari)
 - [🏃 Bölüm 3: Rehabilitasyon Protokolleri](#-bölüm-3-rehabilitasyon-ve-mobilite-protokolleri)
 - [🛠️ Bölüm 4: Bio-Hacking ve Araçlar](#-bölüm-4-bio-hacking-ve-destekleyici-araçlar)
 - [📊 Bölüm 5: Metrikler ve Alışkanlık](#-bölüm-5-metrikler-ve-alışkanlık-yönetimi)
+- [🛋️ Ekipman Rehberi](#-ekipman-rehberi)
+- [📅 Örnek Günlük Rutin](#-örnek-günlük-rutin)
+- [❓ SSS](#-sss)
+- [📖 Kaynakça](#-kaynakça)
+
+---
+
+## 💡 Hakkında
+
+### Neden Beyaz Yaka Fizyo?
+
+> **"Bir yazılımcı olarak, kendimi 12 saatlik kod maratonları sonrası ağrıyan boynumla, uyuşan ellerimle ve kambur duruşumla buldum. Bu rehber, kendi sağlık yolculuğumdan doğdu."**
+
+**Beyaz Yaka Fizyo**, 2024 yılında masa başı çalışanların karşılaştığı kas-iskelet sistemi sorunlarına kapsamlı, bilimsel ve pratik çözümler sunmak amacıyla oluşturuldu.
+
+### Kimler İçin?
+
+| 👨‍💻 Yazılımcılar | 🎨 Tasarımcılar | 📊 Data Analyst | 🎮 Oyun Geliştiriciler |
+|:---:|:---:|:---:|:---:|
+| IDE önünde saatler | Grafik tablet kullanımı | Uzun rapor analizi | Maraton debugging |
+
+### Hedef Kitlenin Profili
+
+```
+Ortalama Beyaz Yaka Çalışanı:
+├── 💻 Günde 8-12 saat ekran başında
+├── ☕ Az hareket, yüksek konsantrasyon
+├── 🔔 "Son bir commit" sendromu
+├── 🏥 Bel/boyun ağrıları (geçici çözümler)
+└── 🚫 "Doktora gitmeye vakit yok"
+```
 
 ---
 
@@ -82,6 +114,16 @@ Uzun süreli oturma pozisyonu:
 ---
 
 ## 🖥️ Bölüm 2: Ergonomik Mimari (Workstation Setup)
+
+### 📐 Pomodoro + Postür Tekniği
+
+> 💡 **25 dakika çalış + 5 dakika Brugger pozisyonu = Verimlilik + Sağlık**
+
+Her pomodoro döngüsünde postürünüzü kontrol edin:
+1. ⏱️ Timer kur (25 dk)
+2. 🧘 Timer bittiğinde Brugger pozisyonu (20 sn)
+3. 👀 Gözlerinizi dinlendirin (20-20-20 kuralı: Her 20 dk, 20 saniye, 20 feet uzaklığa bak)
+4. 🔄 Tekrar başla
 
 <div align="center">
 
@@ -150,6 +192,62 @@ Uzun süreli oturma pozisyonu:
 | **Thoracic Foam Rolling** | 5 dk | Göğüs kafesini açar |
 | **Dead Bug** | 3 dk | Core stabilizasyonu |
 
+### 🔬 Detaylı Egzersiz Anlatımı
+
+<details>
+<summary><b>🧘 Couch Stretch (Kalça Fleksör Esneme)</b></summary>
+
+**Hedef:** Psoas kasının adaptif kısalmasını önlemek
+
+**Adımlar:**
+1. Yer minderine diz çökün
+2. Bir bacağınızı 90° bükün (diz önde, ayak yerde)
+3. Diğer bacağınızı geriye uzatın (diz yere, ayak koltuğun/sandalyenin üzerinde)
+4. Kalçayı ileri doğru itin
+5. Göğüs kafesini dik tutun
+6. 2 dakika tutun, her taraf için tekrarlayın
+
+**Dikkat:**
+- ✓ Kalçadan ileriye itiş hissetmelisiniz
+- ✗ Belden bükülmeyin
+
+</details>
+
+<details>
+<summary><b>🐛 Dead Bug (Core Aktivasyon)</b></summary>
+
+**Hedef:** Transversus abdominis ve multifidus kaslarını aktive etmek
+
+**Adımlar:**
+1. Sırtüstü yatın, dizler 90° bükülü
+2. Belinizi yere sabitleyin (neutral spine)
+3. Kolları tavana kaldırın (dirsekler 90°)
+4. Karşı el ve bacak uzatın (sol kol + sağ bacak)
+5. Bel yere temas halinde kalmalı!
+6. 10 tekrar x 3 set
+
+**İpucu:** Eğer bel kavisiniz bozuluyorsa, bacak hareketini küçültün.
+
+</details>
+
+<details>
+<summary><b>🎾 Lacrosse Topu ile Tetik Nokta Masajı</b></summary>
+
+**Hedef:** Skapular bölgedeki trigger point'leri gevşetmek
+
+**Alanlar:**
+1. **İnfraspinatus:** Kürek kemiği iç kenarı
+2. **Trapezius:** Omuz ve boyun arası
+3. **Pectoralis minor:** Göğüs üst iç kısım
+
+**Teknik:**
+- Topu duvara/sabit bir yüzeye yerleştirin
+- Ağrılı nokta bulana kadar yuvarlayın
+- 30-60 saniye basılı tutun
+- Günde 2-3 kez tekrarlayın
+
+</details>
+
 ---
 
 ## 🛠️ Bölüm 4: Bio-Hacking ve Destekleyici Araçlar
@@ -184,6 +282,155 @@ Uzun süreli oturma pozisyonu:
 │  🟢 Solunum Kalitesi:       6-10 nefes/dakika         │
 └─────────────────────────────────────────────────────────┘
 ```
+
+---
+
+## 🛋️ Ekipman Rehberi
+
+### 💺 Sandalye Seçimi Checklist
+
+```
+✅ Ayarlanabilir lumbar destek
+✅ Koltuk derinliği ayarı (2-3 parmak boşluk diz arkasında)
+✅ Kolçak yüksekliği ayarı (omuzlar rahat)
+✅ 360° dönen baz
+✅ Nefes alabilir kumaş (terlemeyi önler)
+```
+
+**Bütçe Dostu:** IKEA Markus, Hbada Ergonomic
+**Orta Segment:** Steelcase Series 1, Herman Miller Sayl
+**Premium:** Herman Miller Aeron, Steelcase Leap
+
+### 🦵 Yükseklik Ayarlı Masa
+
+| Özellik | Minimum | İdeal |
+|---------|---------|-------|
+| Yükseklik aralığı | 70-120 cm | 60-125 cm |
+| Hafıza preset | 2 adet | 4+ adet |
+| Motor | Tekli | İkili (daha sessiz) |
+
+**DIY Seçenek:** IKEA BEKANT + üçüncü parti ayaklar
+
+### 🖥️ Monitör Yerleşimi
+
+- **Monitör Arm:** Fully Jarvis, Ergotron LX
+- **Riser:** Yükseklik ayarı için (kitap/dizüstü standı)
+- **Mavi Işık Filtresi:** f.lux (yazılım) veya gözlük
+
+---
+
+## 📅 Örnek Günlük Rutin
+
+### 🌅 Sabah Rutini (10 dk)
+
+```
+06:30 │ 🐈 Kediye selam ver (stretching hisset!)
+      │ 2 dk: Nefes egzersizi (diaphragmatic)
+      │ 3 dk: Kedi-köpek pozu (Cat-Cow)
+      │ 3 dk: Aşağı bakan köpek (Downward Dog)
+      │ 2 dk: Çocuk pozu (Child's Pose)
+```
+
+### 🌞 Çalışma Araları (Her saat)
+
+```
+09:00 │ 🖥️ İşe başla, pomodoro kur
+09:25 │ ⏰ Alarm çaldı → Brugger pozisyonu (20 sn)
+09:30 │ 🔄 Devam et
+
+12:00 │ 🍎 Öğle arası
+      │ 10 dk: Yürüyüş (merdiven inip çık)
+      │ 5 dk: Omuz açma egzersizleri
+
+15:00 │ ☕ Kahve/çay molası
+      │ 5 dk: Göz jimnastiği + 20-20-20
+```
+
+### 🌙 Akşam Restorasyonu (15 dk)
+
+```
+18:00 │ 🏃 İşten çıkış
+      │ Couch Stretch: 2 dk x 2 taraf
+      │ Foam Rolling: 5 dk (sırt)
+      │ Dead Bug: 3 dk (core)
+      │ Hamstring esneme: 3 dk
+
+22:00 │ 😴 Uyku öncesi
+      │ 5 dk: Nefes egzersizi (4-7-8 tekniği)
+```
+
+---
+
+## ❓ SSS
+
+<details>
+<summary><b>"Günde kaç kez egzersiz yapmalıyım?"</b></summary>
+
+**Minimum:** Her 45-60 dk'da bir Brugger pozisyonu (20 sn)
+**İdeal:** Günde 3x15 dk restorasyon rutini
+**Maksimum:** 2 saat+ sürekli oturma yasak! ⛔
+
+</details>
+
+<details>
+<summary><b>"Hangi ağrı ciddi, hangisi geçici?"</b></summary>
+
+| 🟡 Geçici (NABIZ) | 🔴 Ciddi (DOKTOR) |
+|------------------|------------------|
+| Hafif ağrı (VAS 1-3) | Şiddetli ağrı (VAS 7+) |
+| Gevşeyince geçen | Gevşeyince artan |
+| Sadece ağrı | Ağrı + uyuşma/karıncalanma |
+| Kas ağrısı | Sinir ağrısı (yanma/batma) |
+
+</details>
+
+<details>
+<summary><b>"Yükseklik ayarlı masa şart mı?"</b></summary>
+
+**Şart değil ama:**
+- Kitap/kağıt yığını ile monitör yükseltin (0 maliyet)
+- Her 30 dk ayakta 5 dk durun (masa kenarında ayakta çalışma)
+- Telefon görüşmelerini ayakta yapın
+
+</details>
+
+<details>
+<summary><b>"Ne zaman fizyoterapiste gitmeliyim?"</b></summary>
+
+**Hemen:**
+- 🚨 Ağrı uykunuzu bölerse
+- 🚨 Uyuşma el/ayakta yayılıyorsa
+- 🚨 Kuvvet kaybı (klavye tutamama, merdiven inememe)
+- 🚨 2 haftadan uzun süren ağrı
+
+</details>
+
+---
+
+## 📖 Kaynakça
+
+### Bilimsel Kaynaklar
+
+- Hansraj, K. K. (2014). Assessment of stresses in the cervical spine caused by posture and position of the head. *Surgical Technology International*, 25, 277-279.
+- Callaghan, J. P., & McGill, S. M. (2001). Low back joint loading and kinematics during standing and unsupported sitting. *Ergonomics*, 44(3), 280-294.
+- Pronk, N. P., & Kottke, T. E. (2009). Physical activity promotion as a strategic corporate priority to improve worker health and business performance. *Preventive Medicine*, 49(4), 316-321.
+
+### Kitaplar
+
+- McGill, S. (2015). *Back Mechanic*. Backfitpro Inc.
+- Starrett, K., & Cordoza, G. (2015). *Becoming a Supple Leopard*. Victory Belt Publishing.
+- Walker, M. (2017). *Why We Sleep*. Scribner.
+
+### Web Kaynakları
+
+- [OSHA Computer Workstations](https://www.osha.gov/etools/computer-workstations)
+- [Ergonomics Plus](https://ergonomicsplus.com/)
+
+### Araçlar
+
+- 🖥️ [f.lux](https://justgetflux.com/) - Mavi ışık filtresi
+- ⏱️ [Pomofocus](https://pomofocus.io/) - Pomodoro timer
+- 💧 [WaterMinder](https://waterminder.com/) - Hidrasyon takibi
 
 ---
 
